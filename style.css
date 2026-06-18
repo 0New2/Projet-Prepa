@@ -123,6 +123,11 @@ nav ul li a:hover {
     text-align: center;
 }
 
+.boutique ul {
+    list-style-type: none;
+    padding: 0;
+}
+
 .boutique-contenu {
     display: flex;
     align-items: center;
@@ -132,6 +137,7 @@ nav ul li a:hover {
 
 .boutique h2 {
     color: var(--primary-color);
+    margin 0px;
 }
 
 .boutique img {
